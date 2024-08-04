@@ -1,0 +1,60 @@
+.
+├── README.md
+├── components
+│   ├── About.tsx
+│   ├── Collection.tsx
+│   ├── Contact.tsx
+│   ├── Footer.tsx
+│   └── Header.tsx
+├── next-env.d.ts
+├── next.config.mjs
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── postcss.config.mjs
+├── public
+│   ├── background.png
+│   ├── background2.png
+│   ├── background3.png
+│   ├── background4.png
+│   ├── background5.png
+│   ├── background6.png
+│   ├── brands
+│   │   ├── brand1.png
+│   │   ├── brand10.png
+│   │   ├── brand11.png
+│   │   ├── brand12.png
+│   │   ├── brand13.png
+│   │   ├── brand14.png
+│   │   ├── brand2.png
+│   │   ├── brand3.png
+│   │   ├── brand4.png
+│   │   ├── brand5.png
+│   │   ├── brand6.png
+│   │   ├── brand7.png
+│   │   ├── brand8.png
+│   │   └── brand9.png
+│   ├── contactform.jpeg
+│   ├── fonts
+│   │   ├── Tektur-Black.ttf
+│   │   ├── Tektur-Bold.ttf
+│   │   ├── Tektur-ExtraBold.ttf
+│   │   ├── Tektur-Medium.ttf
+│   │   ├── Tektur-Regular.ttf
+│   │   └── Tektur-SemiBold.ttf
+│   ├── next.svg
+│   ├── prod.png
+│   └── vercel.svg
+├── src
+│   └── app
+│       ├── _document.js
+│       ├── favicon.ico
+│       ├── globals.css
+│       ├── layout.tsx
+│       └── page.tsx
+├── tailwind.config.js
+├── tailwind.config.ts
+├── tree.txt
+└── tsconfig.json
+
+7 directories, 51 files
